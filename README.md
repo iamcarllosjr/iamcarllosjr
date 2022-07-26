@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/iamcarllosjr">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamcarllosjr&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarllosjr&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamcarllosjr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcarllosjr&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -28,7 +28,7 @@
     <a href="https://www.facebook.com/iamcarlosjr" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     <a href="https://www.linkedin.com/in/iamcarllosjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  
-  ![Snake animation](https://github.com/palomarizzon/palomarizzon/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/iamcarllosjr/carlos-gomes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
     

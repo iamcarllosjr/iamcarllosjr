@@ -1,4 +1,8 @@
-## 👋 Olá, eu sou o Carlos, seja bem vindo ao meu perfil !
+## 👋 Olá, sou o Carlos, seja bem vindo ao meu perfil !
+
+- 🔭 Em busca de uma vaga como Desenvolvedor Front-End Junior
+- 🌱 Estudando HTML, CSS e JavaScript
+- 👩🏾‍💻 3º semestre da faculdade de Tecnologia da Informação
 
  <div>
    <a href="https://github.com/iamcarllosjr">
